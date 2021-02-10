@@ -120,6 +120,87 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 2. Especificação de casos de uso
     1. Caso de uso Manter Usuario – Mateus Pereira
+
+    | CDU-01 |
+    | ----------- |
+
+    | Nome do caso de uso: | CADASTRAR USUÁRIO |
+    | ----------- | ----------- |
+    | Ator Principal: | Usuário |
+    | Atores Secundários:| |
+    | Descrição: | Este caso de uso permite ao ator, se cadastrar no sistema. |
+    | Pré-condições: | O usuário deve ter acesso ao sistema. |
+    | Pós-condições: | Usuário cadastrado no sistema. |
+
+    | Fluxo Basíco |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| O caso de uso tem inicio quando o ator clica em cadastre-se, na pagina inicial. | O sistema apresenta um formulário. |
+    |2| O ator preenche as informações cadastrais. | O sistema valida os dados. <RN[1.1.1]><RN[1.1.2]><RN[1.1.3]> |
+    |3| | O sistema armazena os dados, e redireciona o usuário para definir uma senha. |
+    |4| O ator digita uma senha. | O sistema valida senha.<RN[1.1.4]> e guarda |
+    |5| | O sistema apresenta a mensagem “Usuário cadastrado”. O caso de uso e encerrado. |
+
+
+    | CDU-02 |
+    | ----------- |
+
+    | Nome do caso de uso: | VISUALIZAR USUÁRIO |
+    | ----------- | ----------- |
+    | Ator Principal: | Usuário |
+    | Atores Secundários:| |
+    | Descrição: | Este caso de uso permite ao ator, consultar, editar e excluir todas as informações do seu perfil de usuário. |
+    | Pré-condições: | O usuário deve estar autenticado no sistema. |
+    | Pós-condições: | Informações do usuário visualizadas. |
+
+    | Fluxo Basíco |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| O caso de uso tem inicio na pagina inicial do app, quando o ator clica em visualizar dados de usuário. | O sistema recupera os dados do usuário. |
+    |2| | O sistema apresenta os dados para o usuário e as opção de voltar editar e excluir.<RN[1.3] > |
+    |3| O ator em voltar para pagina inicial.| O caso de uso é encerrado. |
+
+    | FLUXO ALTERNATIVO 1 – EDITAR USUÁRIO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| 2 – Editar dados. | O sistema recupera os dados. |
+    |2| | O sistema apresenta um formulário para edição dos dados. |
+    |3| | O sistema apresenta um formulário preenchido com os dados editáveis.<RN[1.1.3]> |
+    |4| O ator modifica o campo que deseja alterar. | O sistema validada os dados. |
+    |5| | O sistema guarda os dados. |
+    |6| | O sistema apresenta a mensagem “Usuário alterado”. O caso de uso e encerrado. |
+
+
+    | FLUXO ALTERNATIVO 2 – EXCLUIR USUÁRIO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| 2 – O caso de uso tem inicio na pagina inicial do APP, quando o ator clica em excluir usuário. | O sistema recupera os dados. |
+    |2| | O sistema apresenta um popup, perguntando se deseja mesmo excluir o perfil. |
+    |3| O ator clica em sim, desejo excluir o meu perfil. | O sistema apresenta um checkbox com os possíveis motivos, e caixa de texto, caso queira relatar. |
+    |4| | O sistema guarda os motivos da exclusão e solicita novamente autenticação para exclusão.|
+    |5| O ator se autentica. | O sistema valida a autenticação. |
+    |6| | O sistema verifica pendências relacionadas ao usuário.<RN[1.4.1]> |
+    |7| |O sistema exclui o usuário. O caso de uso é encerrado.|
+
+
+    | FLUXO EXCEÇÃO – VALIDAÇÃO DE DADOS |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| O fluxo de exceção tem inicio quando o ator tenta excluir o usuário. | O sistema apresenta um formulário para o usuário. |
+    |2| O ator preenche os dados com valores incorretos. | O sistema apresenta a mensagem “Dados incorretos”. E não permite continuar, até que sejam preenchidos corretamente.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]> |
+    |3| O ator deixa de preencher alguns dados. | O sistema apresenta a mensagem “Dados em branco”. E não permite continuar, até que sejam preenchidos os dados.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]> |
+    |4| O ator deixa o formulário totalmente em branco.| O sistema apresenta a mensagem “Formulário em branco”. E não permite continuar, até que sejam preenchidos os dados.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]>|
+
     2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
     3. Caso de uso Manter proposta – Gabriel Alves
     4. Caso de uso Interagir via chat – Luiz Fernando
