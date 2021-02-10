@@ -28,6 +28,15 @@ Ruan Lucas Soares do Nascimento
     1. Diagrama de casos de uso
     2. Especificação de casos de uso
         1. Caso de uso Manter Usuario – Mateus Pereira
+
+        | Nome do caso de uso:      | CADASTRAR USUÁRIO |  CDU-01 |
+        | ----------- | ----------- |  |
+        | Ator Principal:    | Usuário |
+        | Atores Secudários:    |  |
+        | Atores Secudários:    |  |
+
+
+
         2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
         3. Caso de uso Manter proposta – Gabriel Alves
         4. Caso de uso Interagir via chat – Luiz Fernando
@@ -106,6 +115,9 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 ## Requisitos funcionais
 
 1. Diagrama de casos de uso
+
+![Use Case!](/usecase/use-case-full.png "Diagrama de Casos de Uso do Sistema")
+
 2. Especificação de casos de uso
     1. Caso de uso Manter Usuario – Mateus Pereira
     2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
@@ -137,7 +149,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 |RN 5.1.1 (Cadastrar Forma de Pagamento): O usuário dispõem de uma carteira digital.|
 |RN 5.1.2 (Cadastrar Forma de Pagamento): É permitido pagamentos através diretamente da plataforma.|
 
-## Lista de requisitos não funcionais 
+## Lista de requisitos não funcionais
 
 |Requisitos não-funcionais|
 | ----------- |
