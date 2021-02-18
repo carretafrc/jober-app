@@ -202,6 +202,93 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     |4| O ator deixa o formulário totalmente em branco.| O sistema apresenta a mensagem “Formulário em branco”. E não permite continuar, até que sejam preenchidos os dados.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]>|
 
     2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
+
+
+    | CDU-01 |
+    | ----------- |
+
+    | Nome do caso de uso: | MANTER SERVIÇOS |
+    | ----------- | ----------- |
+    | Ator Principal: | Freelancer |
+    | Atores Secundários:| Cliente |
+    | Descrição: | Descreve os passos para que o Freelancer possa cadastrar, ler, atualizar e excluir um tipo de serviço ofertado. Descreve os passos para que o Cliente possa visualizar os serviços ofertados. |
+    | Pré-condições: | Ambos os atores devem estar cadastrados no sistema. O Cliente só terá acesso ao “Listar serviços ofertados”. |
+    | Pós-condições: | Apresentar mensagens de conclusão de acordo com a função desejada. |
+
+    | Fluxo Basíco – CADASTRAR SERVIÇO|
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+    |4| Clicar em “Adicionar serviço”. | Apresentar formulário para preenchimento dos dados. |
+    |5| Digitar os dados e clicar em “Salvar”. | Salvar os dados no banco de dados. |
+    |6|  | Retornar para a lista de serviços ofertados. |
+    |7|  | Apresentar mensagem de “Serviço adicionado com sucesso.”. |
+
+    | FLUXO ALTERNATIVO – CANCELAR CADASTRO DE SERVIÇO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+    |4| Clicar em “Adicionar serviço”. | Apresentar formulário para preenchimento dos dados. |
+    |5| Digitar os dados e clicar em “Cancelar”. | Retornar para a lista de serviços ofertados. |
+
+
+    | Fluxo Basíco 2 – LISTAR SERVIÇOS |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+
+
+    | Fluxo básico 3 – ATUALIZAR SERVIÇOS|
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+    |4| Selecionar o serviço que deseja atualizar e clicar em “Atualizar”. | Apresentar formulário para preenchimento dos dados. |
+    |5| Digitar os dados e clicar em “Atualizar”. | Salvar os dados no banco de dados. |
+    |6|  | Retornar para a lista de serviços ofertados. |
+    |7|  | Apresentar mensagem de “Serviço atualizado com sucesso.”. |
+
+
+    | Fluxo básico 4 – EXCLUIR SERVIÇO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+    |4| Selecionar o serviço que deseja atualizar e clicar em “Excluir”. | Apresentar mensagem de confirmação. |
+    |5| Clicar em “Excluir”. | Excluir os dados do banco de dados. |
+    |6|  | Retornar para a lista de serviços ofertados. |
+    |7|  | Apresentar mensagem de “Serviço excluído com sucesso.”. |
+
+
+    | FLUXO ALTERNATIVO 4 – CANCELAR EXCLUSÃO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Efetuar login no sistema. | Validar dados de login. |
+    |2| Clicar em “Perfil do usuário”. | Apresentar tela de “Perfil do usuário”. |
+    |3| Clicar em “Listar serviços ofertados”. | Apresentar lista de serviços ofertados referentes a esse usuário. |
+    |4| Selecionar o serviço que deseja atualizar e clicar em “Excluir”. | Apresentar mensagem de confirmação. |
+    |5| Clicar em “Cancelar”. | Retornar para a lista de serviços ofertados. |
+
     3. Caso de uso Manter proposta – Gabriel Alves
     4. Caso de uso Interagir via chat – Luiz Fernando
     5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
