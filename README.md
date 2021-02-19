@@ -571,6 +571,8 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 ## Wireframe
 
 ![Wireframe 1!](/wireframe/wireframe01-1.jpg "Wireframe do app")
+
 ![Wireframe 2!](/wireframe/wireframe02-1.jpg "Wireframe do app")
+
 ![Wireframe 3!](/wireframe/wireframe03-1.jpg "Wireframe do app")
 
