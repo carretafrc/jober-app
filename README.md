@@ -443,7 +443,97 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 
     4. Caso de uso Interagir via chat – Luiz Fernando
+
+    | CDU-01 |
+    | ----------- |
+
+    | Nome do caso de uso: | Interagir via chat |
+    | ----------- | ----------- |
+    | Ator Principal: | Cliente, Freelancer |
+    | Atores Secundários:| Administrador |
+    | Descrição: | Interagir com os usuários via chat. |
+    | Pré-condições: | Ter o aplicativo instalado para ter acesso ao chat. Estar logado. |
+    | Pós-condições: | Mensagem enviada e mensagem recebida. |
+
+    | FLUXO BÁSICO – Interagir via chat |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Enviar mensagens com dúvidas referentes aos serviços a serem contratados e aos serviços a serem prestados. | Notificar se a mensagem foi recebida. |
+    |2|  | Notificar se a mensagem foi visualizada. |
+
+    | FLUXO ALTERNATIVO 1 – Descumprimento das regras de conduta no chat |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Estando o usuário logado no sistema, ele envia uma mensagem para outro usuário sobre os serviços prestados. | O sistema transfere a mensagem para outro usuário. |
+    |2| O usuário recebe a mensagem. | Notificar se a mensagem foi recebida. |
+    |3|  | Notificar se a mensagem foi visualizada. |
+    |4| O Usuário envia perguntas com assuntos não referentes ao app. | Notificar o usuário com as regras para o uso do chat. |
+
+    | FLUXO ALTERNATIVO – INTERVENÇÃO DO ADMINISTRADOR |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Enviar mensagens com dúvidas referentes aos serviços a serem contratados e aos serviços a serem prestados. | Notificar se a mensagem foi recebida. |
+    |2| Notificar se a mensagem foi visualizada. | Notificar se a mensagem foi recebida. |
+    |3| Usuário envia perguntas com assuntos não referentes ao app. | Notificar o usuário com as regras para o uso do chat. |
+    |4| Usuário descumpri as regras do chat ou usa palavras de baixo calão. | O usuário é bloqueado e notificado sobre o bloqueio. |
+
     5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
+
+    | CDU-01 |
+    | ----------- |
+
+    | Nome do caso de uso: | Efetuar pagamento on line |
+    | ----------- | ----------- |
+    | Ator Principal: | Cliente |
+    | Atores Secundários:| Freelancer |
+    | Descrição: | Cliente faz o cadastro e efetua o pagamento o serviço ele faz o pré-pagamento e assim que o serviço é executado, o cliente libera o pagamento para o Freelancer. |
+    | Pré-condições: | O cliente deve ter o aplicativo baixado e se cadastrado na plataforma. |
+    | Pós-condições: | O aplicativo deve ter cadastrado o cliente e as formas de pagamento. |
+
+    | FLUXO BÁSICO – EFETUAR PAGAMENTO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Cliente abre o aplicativo | Notificar se a mensagem foi recebida. |
+    |2| Faz login no sistema | Autoriza a entrada |
+    |3| Seleciona a aba de pagamento |  |
+    |4| Escolhe a forma de pagamento | Mostra opções para pagamento |
+    |5| Insere o valor desejado | Mostra valor digitado |
+    |6| Efetua o pagamento | Mostra recibo do pagamento |
+
+    | FLUXO ALTERNATIVO – ERRO DE LOGIN |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Cliente abre o aplicativo |  |
+    |2| Faz login | Caso login esteja errado, solicita novamente |
+    |3| Seleciona aba de pagamento |  |
+    |4| Escolhe forma de pagamento | Mostra opções para pagamento |
+    |5| Insere valor desejado | Mostra valor digitado |
+    |6| Altera valor | Mostra novo valor digitado |
+    |7| Efetua pagamento | Mostra recibo de pagamento |
+
+    | FLUXO ALTERNATIVO – EDITAR FORMA DE PAGAMENTO |
+    | ----------- |
+
+    | | Ações do Ator | Principal: Usuário Ações do Sistema: |
+    | ----------- | ----------- | ----------- |
+    |1| Abre o aplicativo |  |
+    |2| Faz login no sistema | Autoriza a entrada |
+    |3| Seleciona aba de pagamento |  |
+    |4| Escolhe forma de pagamento | Mostra opções de pagamento |
+    |5| Insere valor desejado | Mostra valor digitado |
+    |6| Altera forma de pagamento| Mostra nova forma de pagamento |
+    |7| Insere novamente o valor desejado | Mostra valor digitado |
+    |8| Efetua pagamento | Mostra recibo de pagamento |
 
 ## Lista de regras de negócio
 
