@@ -570,9 +570,8 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 ## Wireframe
 
-![Wireframe 1!](/wireframe/wireframe01-1.jpg "Wireframe do app")<br>
-
-![Wireframe 2!](/wireframe/wireframe02-1.jpg "Wireframe do app")<br>
-
-![Wireframe 3!](/wireframe/wireframe03-1.jpg "Wireframe do app")<br>
-
+| ![Wireframe 1!](/wireframe/Group%2001.png "Wireframe do app") | ![Wireframe 2!](/wireframe/Group%2002.png "Wireframe do app") | ![Wireframe 3!](/wireframe/Group%2003.png "Wireframe do app") | ![Wireframe 4!](/wireframe/Group%2004.png "Wireframe do app") |
+| ----------- | ----------- | ----------- | ----------- |
+| ![Wireframe 5!](/wireframe/Group%2005.png "Wireframe do app") | ![Wireframe 6!](/wireframe/Group%2006.png "Wireframe do app") | ![Wireframe 7!](/wireframe/Group%2007.png "Wireframe do app") | ![Wireframe 8!](/wireframe/Group%2008.png "Wireframe do app") |
+| ![Wireframe 9!](/wireframe/Group%2009.png "Wireframe do app") | ![Wireframe 10!](/wireframe/Group%2010.png "Wireframe do app") | ![Wireframe 11!](/wireframe/Group%2011.png "Wireframe do app") | ![Wireframe 12!](/wireframe/Group%2012.png "Wireframe do app") |
+| ![Wireframe 13!](/wireframe/Group%2013.png "Wireframe do app") | 
