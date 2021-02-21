@@ -54,16 +54,16 @@ com o objetivo de suprir um deficit de empregabilidade no Distrito Federal.
 
 1. Declaração do problema
 
-| Syntax      | Description |
+|  |  |
 | ----------- | ----------- |
 | O problema da      | Crise na empregabilidade       |
 | Afeta   | Os habitantes do Distrito Federal        |
 | No qual o impacto é | Índice alto de desemprego        |
 | Uma solução de sucesso seria      | Promover um aplicativo que facilita a comunicação entre um profissional (freelancer) e um cliente (o que necessita de um serviço), e, através desse vínculo, oferecer oportunidades de emprego e sanar a demanda de um trabalho, tornando-se uma medida eficaz para ambos os lados    |
 
-2. Declaração da posição do produto
+1. Declaração da posição do produto
 
-| Syntax      | Description |
+|  |  |
 | ----------- | ----------- |
 | Para  | Freelancers e clientes do Distrito Federal.       |
 | Quem  | Busca complementar ou adquirir uma renda (freelancer), ou tem uma demanda de serviço a ser sanada (cliente)        |
@@ -293,7 +293,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-01 |
     | ----------- |
 
-    | Nome do caso de uso: | Criar Proposta |
+    | Nome do caso de uso: | CRIAR PROPOSTA |
     | ----------- | ----------- |
     | Ator Principal: | Cliente |
     | Atores Secundários:|  |
@@ -319,7 +319,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     |11|  | O sistema exibe a mensagem para o cliente “Proposta Criada com sucesso” |
     |12|  | O sistema encaminha o cliente para página principal do aplicativo. |
 
-    | Fluxo alternativo 1 – Reenviar proposta |
+    | Fluxo alternativo 1 – REENVIAR PROPOSTA |
     | ----------- |
 
     | | Ações do Ator | Principal: Usuário Ações do Sistema: |
@@ -344,7 +344,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-02 |
     | ----------- |
 
-    | Nome do caso de uso: | Cancelar Proposta |
+    | Nome do caso de uso: | CANCELAR PROPOSTA |
     | ----------- | ----------- |
     | Ator Principal: | Cliente |
     | Atores Secundários:| |
@@ -383,7 +383,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-03 |
     | ----------- |
 
-    | Nome do caso de uso: | Listar Propostas |
+    | Nome do caso de uso: | LISTAR PROPOSTA |
     | ----------- | ----------- |
     | Ator Principal: | Cliente,Freelancer |
     | Atores Secundários:| |
@@ -404,7 +404,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-04 |
     | ----------- |
 
-    | Nome do caso de uso: | Escolher Proposta |
+    | Nome do caso de uso: | ESCOLHAER PROPOSTA |
     | ----------- | ----------- |
     | Ator Principal: | Freelancer |
     | Atores Secundários:| |
@@ -445,7 +445,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-01 |
     | ----------- |
 
-    | Nome do caso de uso: | Interagir via chat |
+    | Nome do caso de uso: | INTERAGIR VIA CHAT |
     | ----------- | ----------- |
     | Ator Principal: | Cliente, Freelancer |
     | Atores Secundários:| Administrador |
@@ -486,7 +486,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
     | CDU-01 |
     | ----------- |
 
-    | Nome do caso de uso: | Efetuar pagamento on line |
+    | Nome do caso de uso: | EFETUAR PAGAMENTO ONLINE |
     | ----------- | ----------- |
     | Ator Principal: | Cliente |
     | Atores Secundários:| Freelancer |
