@@ -4,21 +4,25 @@
 
 1. Introdução
 2. Posicionamento
+   
     2.1. Declaração do problema
 
     2.2. Declaração da posição do produto
 
 3. Declaração das partes interessadas
+   
     3.1. Resumo das partes interessadas
 
     3.2. Ambiente do usuário
 
 4. Visão geral do produto
+   
     4.1. Necessidades e recursos
 
 5. Outros requisitos do produto
    
 6. Requisitos funcionais
+   
     6.1. Diagrama de casos de uso
 
     6.2. Especificação de casos de uso
