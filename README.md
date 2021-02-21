@@ -1,41 +1,25 @@
-# jober-app
-
-## Autores
-
-Gabriel Alves de Paulo [Linkedin](https://www.linkedin.com/in/gabriel-alves-de-paulo/)
-
-Luis Fernando Pereira da Costa
-
-Mateus Pereira de Souza [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
-
-Raniery Pereira Azevedo [Linkedin](https://www.linkedin.com/in/raniery-azevedo-628945162/)
-
-Ruan Lucas Soares do Nascimento
-
-## Orientador
-
-André Gustavo Bastos Lima [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
+# JOBER
 
 ## Sumário
 
 1. Introdução
 2. Posicionamento
-    1. Declaração do problema
-    2. Declaração da posição do produto
+    2.1. Declaração do problema
+    2.2. Declaração da posição do produto
 3. Declaração das partes interessadas
-    1. Resumo das partes interessadas
-    2. Ambiente do usuário
+    3.1. Resumo das partes interessadas
+    3.2. Ambiente do usuário
 4. Visão geral do produto
-    1. Necessidades e recursos
+    4.1. Necessidades e recursos
 5. Outros requisitos do produto
 6. Requisitos funcionais
-    1. Diagrama de casos de uso
-    2. Especificação de casos de uso
-        1. Caso de uso Manter Usuario – Mateus Pereira
-        2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
-        3. Caso de uso Manter proposta – Gabriel Alves
-        4. Caso de uso Interagir via chat – Luiz Fernando
-        5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
+    6.1. Diagrama de casos de uso
+    6.2. Especificação de casos de uso
+        6.2.1. Caso de uso Manter Usuario – Mateus Pereira
+        6.2.2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
+        6.2.3. Caso de uso Manter proposta – Gabriel Alves
+        6.2.4. Caso de uso Interagir via chat – Luiz Fernando
+        6.2.5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
 7. Lista de regras de negócio
 8. Lista de requisitos não funcionais
 9. Wireframe
@@ -570,6 +554,22 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 | ![Wireframe 5!](/wireframe/Group%2005.png "Wireframe do app") | ![Wireframe 6!](/wireframe/Group%2006.png "Wireframe do app") | ![Wireframe 7!](/wireframe/Group%2007.png "Wireframe do app") | ![Wireframe 8!](/wireframe/Group%2008.png "Wireframe do app") |
 | ![Wireframe 9!](/wireframe/Group%2009.png "Wireframe do app") | ![Wireframe 10!](/wireframe/Group%2010.png "Wireframe do app") | ![Wireframe 11!](/wireframe/Group%2011.png "Wireframe do app") | ![Wireframe 12!](/wireframe/Group%2012.png "Wireframe do app") |
 | ![Wireframe 13!](/wireframe/Group%2013.png "Wireframe do app") | 
+
+## Autores
+
+Gabriel Alves de Paulo [Linkedin](https://www.linkedin.com/in/gabriel-alves-de-paulo/)
+
+Luis Fernando Pereira da Costa
+
+Mateus Pereira de Souza [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
+
+Raniery Pereira Azevedo [Linkedin](https://www.linkedin.com/in/raniery-azevedo-628945162/)
+
+Ruan Lucas Soares do Nascimento
+
+## Orientador
+
+André Gustavo Bastos Lima [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
 
 ## Referências
 
