@@ -28,15 +28,6 @@ Ruan Lucas Soares do Nascimento
     1. Diagrama de casos de uso
     2. Especificação de casos de uso
         1. Caso de uso Manter Usuario – Mateus Pereira
-
-        | Nome do caso de uso:      | CADASTRAR USUÁRIO |  CDU-01 |
-        | ----------- | ----------- |  |
-        | Ator Principal:    | Usuário |
-        | Atores Secudários:    |  |
-        | Atores Secudários:    |  |
-
-
-
         2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
         3. Caso de uso Manter proposta – Gabriel Alves
         4. Caso de uso Interagir via chat – Luiz Fernando
