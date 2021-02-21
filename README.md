@@ -2,15 +2,19 @@
 
 ## Autores
 
-Gabriel Alves de Paulo
+Gabriel Alves de Paulo [Linkedin](https://www.linkedin.com/in/gabriel-alves-de-paulo/)
 
 Luis Fernando Pereira da Costa
 
-Mateus Pereira de Souza
+Mateus Pereira de Souza [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
 
-Raniery Pereira Azevedo
+Raniery Pereira Azevedo [Linkedin](https://www.linkedin.com/in/raniery-azevedo-628945162/)
 
 Ruan Lucas Soares do Nascimento
+
+## Orientador
+
+André Gustavo Bastos Lima [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
 
 ## Sumário
 
@@ -569,4 +573,15 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 ## Referências
 
+ - PRESSMAN, Roger. Engenharia de software. 8. Porto Alegre AMGH 2016
+ - GUEDES, Gilleanes. UML 2 GUIA PRÁTICO. 2a Edição. São Paulo Novatec Editora 2014 LUCIDCHART. O que é um Diagrama de Implantação. Disponivel em:
+<https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml> Acesso em: 27/10/2020
+ - FOWLER, Martin. UML essencial um breve guia para linguagem padrão. 3a Edição. Porto Alegre Bookman 2011
+ - TOMAS, Anderson. O modelo 4 + 1. Disponivel:<http://tassinfo.com.br/orientacao-a-objeto/o-modelo-4-1/> Acesso: 15/17/2020
+ - Material de apoio do Prof. André Gustavo Bastos Lima
+
 ## Licença
+
+[MIT](https://opensource.org/licenses/mit-license.php) &copy; Mateus Pereira - Brasil
+
+## Obrigado!
