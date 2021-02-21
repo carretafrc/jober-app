@@ -4,25 +4,40 @@
 
 1. Introdução
 2. Posicionamento
-    1. Declaração do problema
-    2. Declaração da posição do produto
+    2.1. Declaração do problema
+
+    2.2. Declaração da posição do produto
+
 3. Declaração das partes interessadas
-    1. Resumo das partes interessadas
-    2. Ambiente do usuário
+    3.1. Resumo das partes interessadas
+
+    3.2. Ambiente do usuário
+
 4. Visão geral do produto
-    1. Necessidades e recursos
+    4.1. Necessidades e recursos
+
 5. Outros requisitos do produto
+   
 6. Requisitos funcionais
-    1. Diagrama de casos de uso
-    2. Especificação de casos de uso
-        1. Caso de uso Manter Usuario – Mateus Pereira
-        2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
-        3. Caso de uso Manter proposta – Gabriel Alves
-        4. Caso de uso Interagir via chat – Luiz Fernando
-        5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
+    6.1. Diagrama de casos de uso
+
+    6.2. Especificação de casos de uso
+
+        6.2.1. Caso de uso Manter Usuario – Mateus Pereira
+        
+        6.2.2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
+        
+        6.2.3. Caso de uso Manter proposta – Gabriel Alves
+        
+        6.2.4. Caso de uso Interagir via chat – Luiz Fernando
+        
+        6.2.5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
+
 7. Lista de regras de negócio
+   
 8. Lista de requisitos não funcionais
-9. Wireframe
+   
+9.  Wireframe
 
 ## Introdução
 
