@@ -576,19 +576,65 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 ## Autores
 
-Gabriel Alves de Paulo [Linkedin](https://www.linkedin.com/in/gabriel-alves-de-paulo/)
-
-Luis Fernando Pereira da Costa
-
-Mateus Pereira de Souza [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
-
-Raniery Pereira Azevedo [Linkedin](https://www.linkedin.com/in/raniery-azevedo-628945162/)
-
-Ruan Lucas Soares do Nascimento
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-alves-de-paulo">
+        <img src="images/gabriel.jpeg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>Gabriel Alves</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/luiz-fernando-pereira-da-costa-57b678207/">
+        <img src="images/luis.jpeg" width="100px;" alt="Foto do Roger Bernardo de Melo Lima"/><br>
+        <sub>
+          <b>Luis Fernando</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/">
+        <img src="images/mateus.jpeg" width="100px;" alt="Foto do Levi Ribeiro Filho"/><br>
+        <sub>
+          <b>Mateus Pereira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raniery-azevedo-628945162/">
+        <img src="images/raniery.jpeg" width="100px;" alt="Foto do Andrew"/><br>
+        <sub>
+          <b>Raniery Pereira</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ruan-lucas-soares-do-nascimento-570543206/">
+        <img src="images/ruan.jpg" width="100px;" alt="Foto do Andrew"/><br>
+        <sub>
+          <b>Ruan Lucas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>  
+</table>
 
 ## Orientador
 
-André Gustavo Bastos Lima [Linkedin](https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/">
+        <img src="images/andre-lima.jpeg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub>
+          <b>André Gustavo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>  
+</table>
 
 ## Referências
 
