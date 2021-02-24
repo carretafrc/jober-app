@@ -3,6 +3,7 @@
 ## Sumário
 
 1. Introdução
+   
 2. Posicionamento
    
     2.1. Declaração do problema
@@ -639,14 +640,14 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 ## Referências
 
  - PRESSMAN, Roger. Engenharia de software. 8. Porto Alegre AMGH 2016
- - GUEDES, Gilleanes. UML 2 GUIA PRÁTICO. 2a Edição. São Paulo Novatec Editora 2014 LUCIDCHART. O que é um Diagrama de Implantação. Disponivel em:
-<https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml> Acesso em: 27/10/2020
+ - GUEDES, Gilleanes. UML 2 GUIA PRÁTICO. 2a Edição. São Paulo Novatec Editora 2014 
+ - LUCIDCHART. O que é um Diagrama de Implantação. Disponivel em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml> Acesso em: 27/10/2020
  - FOWLER, Martin. UML essencial um breve guia para linguagem padrão. 3a Edição. Porto Alegre Bookman 2011
  - TOMAS, Anderson. O modelo 4 + 1. Disponivel:<http://tassinfo.com.br/orientacao-a-objeto/o-modelo-4-1/> Acesso: 15/17/2020
  - Material de apoio do Prof. André Gustavo Bastos Lima
 
 ## Licença
 
-[MIT](https://opensource.org/licenses/mit-license.php) &copy; Mateus Pereira - Brasil
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 ## Obrigado!
