@@ -28,15 +28,15 @@
 
     6.2. [Especificação de casos de uso](#2-especificação-de-casos-de-uso)
 
-    6.3. [Caso de uso Manter Usuario – Mateus Pereira](#1-caso-de-uso-manter-usuario--mateus-pereira)
+    6.2.1. [Caso de uso Manter Usuario – Mateus Pereira](#1-caso-de-uso-manter-usuario--mateus-pereira)
         
-    6.4. [Caso de uso Manter Serviço Ofertado – Ruan Lucas](#2-caso-de-uso-manter-serviço-ofertado--ruan-lucas)
+    6.2.2. [Caso de uso Manter Serviço Ofertado – Ruan Lucas](#2-caso-de-uso-manter-serviço-ofertado--ruan-lucas)
         
-    6.5. [Caso de uso Manter proposta – Gabriel Alves](#3-caso-de-uso-manter-proposta--gabriel-alves)
+    6.2.3. [Caso de uso Manter proposta – Gabriel Alves](#3-caso-de-uso-manter-proposta--gabriel-alves)
         
-    6.6. [Caso de uso Interagir via chat – Luiz Fernando](#4-caso-de-uso-interagir-via-chat--luiz-fernando)
+    6.2.4. [Caso de uso Interagir via chat – Luiz Fernando](#4-caso-de-uso-interagir-via-chat--luiz-fernando)
         
-    6.7. [Caso de uso Efetuar pagamento on line – Raniery Azevedo](#5-caso-de-uso-efetuar-pagamento-on-line--raniery-azevedo)
+    6.2.5. [Caso de uso Efetuar pagamento on line – Raniery Azevedo](#5-caso-de-uso-efetuar-pagamento-on-line--raniery-azevedo)
 
 7. [Lista de regras de negócio](#lista-de-regras-de-negócio)
    
@@ -119,7 +119,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
 
 ### 2. Especificação de casos de uso
 
-### 1. Caso de uso Manter Usuario – Mateus Pereira
+#### 1. Caso de uso Manter Usuario – Mateus Pereira
 
   | CDU-01 |
   | ----------- |
@@ -201,7 +201,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
   |3| O ator deixa de preencher alguns dados. | O sistema apresenta a mensagem “Dados em branco”. E não permite continuar, até que sejam preenchidos os dados.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]>. |
   |4| O ator deixa o formulário totalmente em branco.| O sistema apresenta a mensagem “Formulário em branco”. E não permite continuar, até que sejam preenchidos os dados.<RN[1.1.2]><RN[1.1.3]><RN[1.1.4]>.|
 
-### 2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
+#### 2. Caso de uso Manter Serviço Ofertado – Ruan Lucas
 
 
   | CDU-01 |
@@ -289,7 +289,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
   |4| Selecionar o serviço que deseja atualizar e clicar em “Excluir”. | Apresentar mensagem de confirmação. |
   |5| Clicar em “Cancelar”. | Retornar para a lista de serviços ofertados. |
 
-### 3. Caso de uso Manter proposta – Gabriel Alves
+#### 3. Caso de uso Manter proposta – Gabriel Alves
 
 
   | CDU-01 |
@@ -441,7 +441,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
   |6| O freelancer aciona “Não”. |  |
   |7|  | O sistema retorna o freelancer para aba de listagem de propostas. |
   
-### 4. Caso de uso Interagir via chat – Luiz Fernando
+#### 4. Caso de uso Interagir via chat – Luiz Fernando
 
   | CDU-01 |
   | ----------- |
@@ -482,7 +482,7 @@ reforma, por exemplo. Entretanto, no ambiente atual, encontrar alguém para um d
   |3| Usuário envia perguntas com assuntos não referentes ao app. | Notificar o usuário com as regras para o uso do chat. |
   |4| Usuário descumpri as regras do chat ou usa palavras de baixo calão. | O usuário é bloqueado e notificado sobre o bloqueio. |
 
-### 5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
+#### 5. Caso de uso Efetuar pagamento on line – Raniery Azevedo
 
   | CDU-01 |
   | ----------- |
