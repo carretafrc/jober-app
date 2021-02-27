@@ -28,15 +28,15 @@
 
     6.2. [Especificação de casos de uso](#2-especificação-de-casos-de-uso)
 
-    6.2.1. [Caso de uso Manter Usuario – Mateus Pereira](#1-caso-de-uso-manter-usuario--mateus-pereira)
-        
-    6.2.2. [Caso de uso Manter Serviço Ofertado – Ruan Lucas](#2-caso-de-uso-manter-serviço-ofertado--ruan-lucas)
-        
-    6.2.3. [Caso de uso Manter proposta – Gabriel Alves](#3-caso-de-uso-manter-proposta--gabriel-alves)
-        
-    6.2.4. [Caso de uso Interagir via chat – Luiz Fernando](#4-caso-de-uso-interagir-via-chat--luiz-fernando)
-        
-    6.2.5. [Caso de uso Efetuar pagamento on line – Raniery Azevedo](#5-caso-de-uso-efetuar-pagamento-on-line--raniery-azevedo)
+      6.2.1. [Caso de uso Manter Usuario – Mateus Pereira](#1-caso-de-uso-manter-usuario--mateus-pereira)
+          
+      6.2.2. [Caso de uso Manter Serviço Ofertado – Ruan Lucas](#2-caso-de-uso-manter-serviço-ofertado--ruan-lucas)
+          
+      6.2.3. [Caso de uso Manter proposta – Gabriel Alves](#3-caso-de-uso-manter-proposta--gabriel-alves)
+          
+      6.2.4. [Caso de uso Interagir via chat – Luiz Fernando](#4-caso-de-uso-interagir-via-chat--luiz-fernando)
+          
+      6.2.5. [Caso de uso Efetuar pagamento on line – Raniery Azevedo](#5-caso-de-uso-efetuar-pagamento-on-line--raniery-azevedo)
 
 7. [Lista de regras de negócio](#lista-de-regras-de-negócio)
    
