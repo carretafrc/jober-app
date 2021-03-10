@@ -1,5 +1,9 @@
 # Jober
 
+## Versão
+
+Versão 1.0
+
 ## Sobre
 
 Este foi um projeto da disciplina do 2° Semestre do curso de Análise de Desenvolvimento de Sistemas, disciplina de Engenharia de requisitos, da Universidade Católica de Brasília-DF. Com a supervisão do professor André Gustavo.
@@ -15,16 +19,16 @@ Fique a vontade para qualquer feedback sobre o projeto.
 ## Sumário
 
 - [Jober](#jober)
+  - [Versão](#versão)
   - [Sobre](#sobre)
   - [Sumário](#sumário)
   - [Documento de Visão](#documento-de-visão)
   - [Wireframe](#wireframe)
   - [Autores](#autores)
   - [Orientador](#orientador)
-  - [Referências](#referências)
-  - [Licença](#licença)
   - [Conclusão](#conclusão)
-    - [Obrigado!](#obrigado)
+  - [Licença](#licença)
+  - [Referências](#referências)
 
 ## Documento de Visão
 
@@ -100,25 +104,21 @@ Fique a vontade para qualquer feedback sobre o projeto.
   </tr>  
 </table>
 
-## Referências
-
- - PRESSMAN, Roger. Engenharia de software. 8. Porto Alegre AMGH 2016
- - GUEDES, Gilleanes. UML 2 GUIA PRÁTICO. 2a Edição. São Paulo Novatec Editora 2014 
- - FOWLER, Martin. UML essencial um breve guia para linguagem padrão. 3a Edição. Porto Alegre Bookman 2011
- - Material de apoio do Prof. André Gustavo Bastos Lima
-
-## Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
 ## Conclusão
 
 Ao termino desse trabalho, sabemos agora a grande importancia que o projeto bem documentado tem. Que contruir um software já sabendo de fato o que deve ser feito nos economiza muito tempo, além de evitar vários problemas que podemos detectar com os documentos mencionados no projeto.
 
 Foi excelente trabalhar em grupo, e descutir vários conceitos, e aprender com a visão que cada um tem sobre deteminados temas. 
 
-Agradecemos o professor por todas as duvídas tiradas e principalmente pelos conhecimentos passados dentro de sala.
+Agradecemos o professor por todas as duvídas tiradas e principalmente pelos conhecimentos passados dentro de sala. Obrigado!
 
-### Obrigado!
+## Licença
 
-Agradecemos a todos vocês que leram o trabalho. Fiquem a vontade pra feedbacks.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+## Referências
+
+ - PRESSMAN, Roger. Engenharia de software. 8. Porto Alegre AMGH 2016
+ - GUEDES, Gilleanes. UML 2 GUIA PRÁTICO. 2a Edição. São Paulo Novatec Editora 2014 
+ - FOWLER, Martin. UML essencial um breve guia para linguagem padrão. 3a Edição. Porto Alegre Bookman 2011
+ - Material de apoio do Prof. André Gustavo Bastos Lima
