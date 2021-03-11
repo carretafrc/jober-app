@@ -1,5 +1,7 @@
 # Jober
 
+![Banner](/images/banner.png "Banner")
+
 ## Versão
 
 Versão 1.0
