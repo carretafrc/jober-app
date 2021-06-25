@@ -49,46 +49,86 @@ Fique a vontade para qualquer feedback sobre o projeto.
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/gabriel-alves-de-paulo">
-        <img src="images/gabriel.jpeg" width="100px;" alt="Foto do Gabriel"/><br>
+    <img src="images/gabriel.jpeg" width="100px;" alt="Foto do Gabriel"/><br>
+      <sub>
+        <b>Gabriel Alves</b>
+      </sub><br>
+      <a href="https://github.com/GabrielAlves-bot">
         <sub>
-          <b>Gabriel Alves</b>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
+      <a href="https://www.linkedin.com/in/gabriel-alves-de-paulo/">
+        <sub>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
     <td align="center">
+    <img src="images/luiz.jpeg" width="100px;" alt="Foto do Gabriel"/><br>
+      <sub>
+        <b>Luiz Fernando</b>
+      </sub><br>
+      <a href="https://github.com/luizfernando-2796">
+        <sub>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
       <a href="https://www.linkedin.com/in/luiz-fernando-pereira-da-costa-57b678207/">
-        <img src="images/luis.jpeg" width="100px;" alt="Foto do Luiz"/><br>
         <sub>
-          <b>Luiz Fernando</b>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
     <td align="center">
+    <img src="images/mateus.jpeg" width="100px;" alt="Foto do Mateus"/><br>
+      <sub>
+        <b>Mateus Pereira</b>
+      </sub><br>
+      <a href="https://github.com/mateuspsm">
+        <sub>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
       <a href="https://www.linkedin.com/in/mateus-pereira-de-souza-moreira/">
-        <img src="images/mateus.jpeg" width="100px;" alt="Foto do Mateus"/><br>
         <sub>
-          <b>Mateus Pereira</b>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
     <td align="center">
+    <img src="images/raniery.jpeg" width="100px;" alt="Foto do Raniery"/><br>
+      <sub>
+        <b>Raniery Pereira</b>
+      </sub><br>
+        <a href="https://github.com/ranieryAzevedo">
+        <sub>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
       <a href="https://www.linkedin.com/in/raniery-azevedo-628945162/">
-        <img src="images/raniery.jpeg" width="100px;" alt="Foto do Raniery"/><br>
         <sub>
-          <b>Raniery Pereira</b>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/ruan-lucas-soares-do-nascimento-570543206/">
-        <img src="images/ruan.jpg" width="100px;" alt="Foto do Ruan"/><br>
+    <img src="images/ruan.jpg" width="100px;" alt="Foto do Ruan"/><br>
+      <sub>
+        <b>Ruan Lucas</b>
+      </sub><br>
+        <a href="https://github.com/ruanlsdn">
         <sub>
-          <b>Ruan Lucas</b>
+          <b>GitHub</b>
+        </sub>
+      </a><br>
+      <a href="https://www.linkedin.com/in/ruan-lucas-soares-do-nascimento-570543206/">
+        <sub>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
-  </tr>  
+  </tr>
 </table>
 
 ## Orientador
