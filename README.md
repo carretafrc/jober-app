@@ -135,11 +135,14 @@ Fique a vontade para qualquer feedback sobre o projeto.
 
 <table>
   <tr>
-    <td align="center">
+  <td align="center">
+    <img src="images/andre-lima.jpeg" width="100px;" alt="Foto do André"/><br>
+      <sub>
+        <b>André Gustavo</b>
+      </sub><br>
       <a href="https://www.linkedin.com/in/andr%C3%A9-gustavo-bastos-lima-a1b344187/">
-        <img src="images/andre-lima.jpeg" width="100px;" alt="Foto Prof. André Gustavo"/><br>
         <sub>
-          <b>André Gustavo</b>
+          <b>LinkedIn</b>
         </sub>
       </a>
     </td>
